@@ -1,13 +1,12 @@
 ## Hi there 👋
 
-I’m Saurabh Kumar Singh, a Computer Science student who enjoys building projects and exploring new technologies. I like working with Linux, cloud tools, and writing efficient code.
+I’m Saurav, an engineering student based in India.I like working with Linux, cloud tools, and writing efficient code and keeping things simple..
 
 These days I’m focused on:
 
-C++ and problem solving  
-Google Cloud & Cloud Computing  
-Linux (Arch Linux) and system tools  
-Exploring AI, DevOps and scalable systems  
+- React, TypeScript, Tailwind
+- Google Cloud & Cloud Computing  
+- Exploring AI, DevOps and scalable systems  
 
 Some stuff I built:
 
@@ -17,9 +16,9 @@ Coding problem solutions – Implementations of algorithms and data structures i
 
 Fun Facts:
 
-I use Arch Linux 🐧  
-I enjoy solving programming problems  
-Interested in AI, cloud technologies, and system design
+- I use Arch Linux 🐧  
+- I enjoy solving programming problems  
+- Interested in AI, cloud technologies, and system design
 <!--
 **Saurav1233444/Saurav1233444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
